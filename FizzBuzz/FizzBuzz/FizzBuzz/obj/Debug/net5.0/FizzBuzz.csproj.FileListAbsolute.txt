@@ -1,0 +1,15 @@
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csprojAssemblyReference.cache
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfo.cs
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.deps.json
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.json
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.dev.json
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.dll
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/bin/Debug/net5.0/ref/FizzBuzz.dll
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.pdb
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.dll
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net5.0/ref/FizzBuzz.dll
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.pdb
+/Users/sorin006730/Desktop/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.genruntimeconfig.cache
